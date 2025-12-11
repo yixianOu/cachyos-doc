@@ -1,0 +1,7 @@
+V2RayA:
+orician
+20040606
+https://platform.djjc.cfd/api/v1/client/subscribe?token=8a2240effc1878485f6b4fcd1a33c932
+
+docker:
+ docker login docker.1ms.run -u 1ms -p mk-gJeWHtWx3Pnu7pILRTLBsfq2pXJtHA0gLrKnbrrU
